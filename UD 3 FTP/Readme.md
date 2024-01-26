@@ -1,3 +1,0 @@
-# Tarea de FTP
-
-Aa
