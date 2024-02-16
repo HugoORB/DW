@@ -1,0 +1,1 @@
+No me costó en concreto ningún apartado. Va sin hacer el 3 porque era el que me parecía más tedioso pero en general fue sencillo, directo al grano y entiendes bien el uso de tomcat y su instalación con el ejercicio.
